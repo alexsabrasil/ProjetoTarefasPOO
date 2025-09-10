@@ -1,7 +1,7 @@
 """
 main.py
 Sistema interativo de Gestão de Projetos e Tarefas (POO) - CRUD completo.
-Autores: Alê & Parceira
+Autores: Alexsandra & Luciana
 """
 
 from datetime import datetime, date
